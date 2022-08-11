@@ -1,0 +1,12 @@
+.items {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.items >h2 {
+    font-size: 12px;
+    padding: 3px;
+    border: 1px solid silver;
+    margin: 3px 0;
+}
